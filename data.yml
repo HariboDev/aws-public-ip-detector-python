@@ -1,0 +1,12 @@
+Accounts:
+  Personal:
+    Credentials:
+      AccessKey: null
+      Secret: null
+Data:
+  LastKnownIp: 1.1.1.1
+  Notifications:
+    Failure: true
+    NoChange: true
+    NoRulesToUpdate: true
+    Success: true
