@@ -104,4 +104,4 @@ If you need help debugging or find a bug, please [raise an issue](https://github
 
 ## Contributing
 
-Contributions are welcomed and appreciated. If you have an idea for a new feature, or find a bug, you can [open an issue](https://github.com/hlacannon/aws-public-ip-detector/issues/new) and report it. Or if you are in the devloping mood, you can fork this repository, implement the idea or fix the bug and [submit a new pull request](https://github.com/hlacannon/aws-public-ip-detector/compare).
+Contributions are welcomed and appreciated. If you have an idea for a new feature, or find a bug, you can [open an issue](https://github.com/hlacannon/aws-public-ip-detector/issues/new) and report it. Or if you are in the developing mood, you can fork this repository, implement the idea or fix the bug and [submit a new pull request](https://github.com/hlacannon/aws-public-ip-detector/compare).
